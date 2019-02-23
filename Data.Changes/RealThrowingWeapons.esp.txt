@@ -1,0 +1,200 @@
+ARTO
+  02001764 RTW_WS-IconTarget
+
+COBJ
+  02000815 co_weap_BOE
+  0200175C co_weap_CombatKnife-throwing
+  02000809 co_weap_DCtomahawk-throwing
+  02005B50 co_weap_Fork-throwing
+  02000814 co_weap_FSS
+  02005B46 co_weap_Hatchet-throwing
+  0200175B co_weap_RaiderHatchet-throwing
+  02005B47 co_weap_Saw-throwing
+  0200080B co_weap_ShivKnife-throwing
+  0200D316 co_weap_Shoe-throwing
+  02001788 co_weap_Shuriken01-throwing
+  020017A3 co_weap_Shuriken02-throwing
+  020017A4 co_weap_Shuriken03-throwing
+  020017A6 co_weap_Shuriken04-throwing
+  0200178E co_weap_Stiletto-throwing
+  0200D325 co_weap_Stiletto-throwingDUPLICATE000
+  02005B45 co_weap_StilettoShiv-throwing
+  0200D326 co_weap_StilettoShoe-throwing
+  0200175A co_weap_Switchblade-throwing
+  0200D333 co_weap_Wakisashi-throwing
+  0200080A co_weap_WrenchKnife-throwing
+  02001763 RTW_workshop_co_Targets
+
+ENCH
+  0200177A BOE_RetrievalENCH
+  02000FB4 DCT_RetrievalENCH
+  0200D315 ench_StaggeringShoe
+  02001779 FSS_RetrievalENCH
+  02005B44 Saw_RetrievalENCH
+  02001789 SHK01_RetrievalENCH
+  020017A0 SHK02_RetrievalENCH
+  020017A1 SHK03_RetrievalENCH
+  020017A2 SHK04_RetrievalENCH
+  02005B4F TF01_RetrievalENCH
+  0200177B TH01_RetrievalENCH
+  02005B42 TH02_RetrievalENCH
+  02001775 TK01_RetrievalENCH
+  02001776 TK02_RetrievalENCH
+  02001777 TK03_RetrievalENCH
+  02001778 TK04_RetrievalENCH
+  0200178D TK05_RetrievalENCH
+  02005B43 TK06_RetrievalENCH
+  0200D324 TK07_RetrievalENCH
+  0200D327 TS02_RetrievalENCH
+  0200D332 TW01_RetrievalENCH
+
+EXPL
+  02000816 BOE_Expl
+  02000802 DCT_Expl
+  02000811 FSS_Expl
+  02005B3F Saw_Expl
+  02001786 SHK01_Expl
+  0200179D SHK02_Expl
+  0200179E SHK03_Expl
+  0200179F SHK04_Expl
+  02005B4E TF01_Expl
+  02001757 TH01_Expl
+  02005B41 TH02_Expl
+  02000803 TK01_Expl
+  02000804 TK02_Expl
+  02001755 TK03_Expl
+  02001756 TK04_Expl
+  0200178C TK05_Expl
+  02005B3E TK06_Expl
+  0200D323 TK07_Expl
+  0200D314 TS01_Expl
+  0200D328 TS02_Expl
+  0200D331 TW01_Expl
+
+FLST
+  0200175E WorkshopMenu01Decor02Targets
+  0200175F workshopRecipe_Target
+  02001760 workshopScrap_Target
+
+KSSM
+  02005B53 RTW_TumbleSmall
+
+KYWD
+  0200080C recipe_filter_ThrowingBlades
+  02001761 RTW_WorkshopRecipeFilter01Decor02Targets
+  02001762 RTW_WorkshopRecipeFilter01Decor02TargetsDUPLICATE000
+  02005B54 s_RTW_TumbleSmall
+
+MGEF
+  02001773 BOE_Retrieval
+  02000FB3 DCT_Retrieval
+  02001772 FSS_Retrieval
+  02005B39 Saw_Retrieval
+  02001787 SHK01_Retrieval
+  0200179A SHK02_Retrieval
+  0200179B SHK03_Retrieval
+  0200179C SHK04_Retrieval
+  02005B4D TF01_Retrieval
+  02001774 TH01_Retrieval
+  02005B3D TH02_Retrieval
+  0200176E TK01_Retrieval
+  0200176F TK02_Retrieval
+  02001770 TK03_Retrieval
+  02001771 TK04_Retrieval
+  0200178B TK05_Retrieval
+  02005B38 TK06_Retrieval
+  0200D322 TK07_Retrieval
+  0200D329 TS02_Retrieval
+  0200D330 TW01_Retrieval
+
+PROJ
+  02000817 BOE-NoSpin
+  02000818 BOE-Thrown
+  02000801 DCG_Tomahawk-NoSpin
+  0200080F DCG_Tomahawk-Thrown
+  02000813 FSS-NoSpin
+  02000812 FSS-Thrown
+  02005B4B ThrowingFork-NoSpin
+  02005B4C ThrowingFork-Thrown
+  02001758 ThrowingHatchet01-NoSpin
+  02001759 ThrowingHatchet01-Thrown
+  02005B3B ThrowingHatchet02-NoSpin
+  02005B3C ThrowingHatchet02-Thrown
+  02000805 ThrowingKnife01-NoSpin
+  0200080D ThrowingKnife01-Thrown
+  02000806 ThrowingKnife02-NoSpin
+  0200080E ThrowingKnife02-Thrown
+  02001751 ThrowingKnife03-NoSpin
+  02001752 ThrowingKnife03-Thrown
+  02001753 ThrowingKnife04-NoSpin
+  02001754 ThrowingKnife04-Thrown
+  0200178F ThrowingKnife05-NoSpin
+  02001790 ThrowingKnife05-Thrown
+  02005B35 ThrowingKnife06-NoSpin
+  02005B36 ThrowingKnife06-Thrown
+  0200D320 ThrowingKnife07-NoSpin
+  0200D321 ThrowingKnife07-Thrown
+  02005B34 ThrowingSaw01-NoSpin
+  02005B33 ThrowingSaw01-Thrown
+  0200D313 ThrowingShoe01-Thrown
+  0200D32A ThrowingShoe02-NoSpin
+  0200D32B ThrowingShoe02-Thrown
+  02001785 ThrowingShuriken01-NoSpin
+  02001784 ThrowingShuriken01-Thrown
+  02001795 ThrowingShuriken02-NoSpin
+  02001794 ThrowingShuriken02-Thrown
+  02001797 ThrowingShuriken03-NoSpin
+  02001796 ThrowingShuriken03-Thrown
+  02001799 ThrowingShuriken04-NoSpin
+  02001798 ThrowingShuriken04-Thrown
+  0200D32D ThrowingWakisashi01-NoSpin
+  0200D32E ThrowingWakisashi01-Thrown
+  0200D336 Thunderstick01-Thrown
+
+QUST
+  02004BEC RTW_ControlQuest
+  0200D317 RTW_ControlQuestAE
+  020116BA RTW_Crosshair
+  02001766 RTW_Menu_Installer
+
+SNDR
+  02005B52 RTW_LgThrowing
+  02009ED9 RTW_MedThrowing
+  02009ED8 RTW_SmallThrowing
+
+SPEL
+  02009EDA RTW_SlowTimeSpell
+
+STAT
+  0200D31E RTW_BarnTarget
+  0200D31A RTW_FenceTarget
+  0200D318 RTW_HayTarget
+  0200D31C RTW_JanglesTarget
+  02001765 RTW_StandingTarget
+  0200D31B RTW_SwanTarget
+  0200D319 RTW_SwingsetTarget
+  0200D31D RTW_VaultTarget
+
+WEAP
+  02000819 BOEThrowingBlade
+  02000800 DiamondCityTomahawk-Thrown
+  02005B4A ThrowingFork01
+  02000810 ThrowingFSS
+  02001750 ThrowingHatchet01
+  02005B3A ThrowingHatchet02
+  02000807 ThrowingKnife01
+  02000808 ThrowingKnife02
+  0200174E ThrowingKnife03
+  0200174F ThrowingKnife04
+  0200178A ThrowingKnife05
+  02005B37 ThrowingKnife06
+  0200D31F ThrowingKnife07
+  0200177C ThrowingSaw01
+  02005B51 ThrowingShoe01
+  0200D32C ThrowingShoe02
+  02001783 ThrowingShuriken01
+  02001791 ThrowingShuriken02
+  02001792 ThrowingShuriken03
+  02001793 ThrowingShuriken04
+  0200D335 ThrowingThunderStick
+  0200D32F ThrowingWakisashi01
